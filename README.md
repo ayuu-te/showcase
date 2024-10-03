@@ -8,24 +8,21 @@ Welcome to my portfolio website repository! This project is a dynamic and intera
 - [Installation](#installation)
 - [Usage](#usage)
 - [AI-Powered Recommendations](#ai-powered-recommendations)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
-This website serves as my personal portfolio, combining all my creative and technical work into one seamless platform. It showcases:
+This website serves as my portfolio, combining all my creative and technical work into one seamless platform. It showcases:
 - **Photography**: A visual gallery of my best shots.
 - **Coding Projects**: A display of my programming skills through various projects.
 - **Animation**: A collection of my animation work.
 - **Music**: Tracks and compositions I have created.
 
-The website features a responsive, grid-based layout inspired by modern design principles, ensuring that the content is easily navigable across different devices.
+The website features a responsive, grid-based layout inspired by modern design principles, ensuring the content is easily navigable across different devices.
 
 ## Features
-- **Dynamic Content Display**: Showcase various types of media like images, code snippets, videos, and music.
+- **Dynamic Content Display**: Showcase various media types like images, code snippets, videos, and music.
 - **AI-Powered Recommendations**: Uses artificial intelligence to suggest related content based on user interactions.
 - **Responsive Design**: Adapts to all screen sizes, offering a seamless experience on desktops, tablets, and mobiles.
-- **Search and Filter**: Allows users to filter content based on categories like photography, coding, animation, and music.
+- **Search and Filter**: Users can filter content based on categories like photography, coding, animation, and music.
 - **User-Friendly Interface**: Simple, clean design that provides a smooth user experience.
 
 ## Installation
@@ -38,7 +35,7 @@ Ensure you have the following installed:
 ### Steps to Set Up Locally
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/ayuu-te/portfolio-website.git
     ```
 
 2. **Navigate to the project folder**:
@@ -66,12 +63,6 @@ Once the website is running, you can:
 
 ## AI-Powered Recommendations
 The AI recommendation system analyzes user interactions and content data to suggest related works from various sections (photography, coding, animation, and music). This improves user engagement by offering relevant content dynamically.
-
-## Screenshots
-Here are some screenshots of the project:
-
-![Screenshot of Photography Gallery](https://link-to-screenshot.com/photo-gallery.png)
-![Screenshot of Code Projects](https://link-to-screenshot.com/code-projects.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your suggestions or improvements. Refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
