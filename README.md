@@ -1,6 +1,8 @@
 # My Portfolio Website
 
-Welcome to my portfolio website repository! This project is a dynamic and interactive platform where I showcase my work in **photography**, **coding**, **animation**, and **music**. Designed with a clean, grid-based layout, the website uses AI-powered recommendations to provide an enhanced user experience by suggesting relevant content.
+Yoo
+Welcome to my website repository! This project is a dynamic and interactive platform where I showcase my work in **photography**, **coding**, **animation**, and **music**. Designed with a clean, grid-based layout. 
+The website uses AI-powered recommendations to provide an enhanced user experience by suggesting relevant content.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -12,9 +14,9 @@ Welcome to my portfolio website repository! This project is a dynamic and intera
 ## Project Overview
 This website serves as my portfolio, combining all my creative and technical work into one seamless platform. It showcases:
 - **Photography**: A visual gallery of my best shots.
-- **Coding Projects**: A display of my programming skills through various projects.
+- **Coding**: A display of my programming skills by making this website.
 - **Animation**: A collection of my animation work.
-- **Music**: Tracks and compositions I have created.
+- **Music**: The background music of this website is created by me.
 
 The website features a responsive, grid-based layout inspired by modern design principles, ensuring the content is easily navigable across different devices.
 
@@ -63,9 +65,3 @@ Once the website is running, you can:
 
 ## AI-Powered Recommendations
 The AI recommendation system analyzes user interactions and content data to suggest related works from various sections (photography, coding, animation, and music). This improves user engagement by offering relevant content dynamically.
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your suggestions or improvements. Refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
