@@ -1,4 +1,4 @@
-# My Portfolio Website
+# My Showcase
 
 Yoo
 Welcome to my website repository! This project is a dynamic and interactive platform where I showcase my work in **photography**, **coding**, **animation**, and **music**. Designed with a clean, grid-based layout. 
