@@ -37,12 +37,12 @@ Ensure you have the following installed:
 ### Steps to Set Up Locally
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ayuu-te/portfolio-website.git
+    git clone https://github.com/ayuu-te/showcase-website.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd portfolio-website
+    cd showcase-website
     ```
 
 3. **Install dependencies**:
